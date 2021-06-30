@@ -8,7 +8,7 @@ setup(
   author = 'Azeem Ur Rehman',
   author_email = 'rehmanazeem915@gmail.com',
   url = 'https://github.com/rehmanazeem/instabot',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz', #needs to be changed
+  download_url = 'https://github.com/rehmanazeem/instabot/archive/v0.1.0-alpha.tar.gz',
   keywords = ['instagram bot', 'task automation', 'human simulation'],
   install_requires=[
           'selenium',
